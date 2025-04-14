@@ -1,0 +1,137 @@
+Stratégie optimale pour Loldle basée sur la théorie de l'information
+=============================================================
+
+Étape 1:
+Nombre de champions restants: 169
+Meilleure question à poser: 'region' (gain d'information: 4.827 bits)
+Distribution des valeurs pour cet attribut:
+  - Ionia: 19 champions (11.2%)
+  - Freljord: 14 champions (8.3%)
+  - Shurima: 11 champions (6.5%)
+  - Zaun: 10 champions (5.9%)
+  - Noxus: 10 champions (5.9%)
+  - Demacia: 9 champions (5.3%)
+  - Bilgewater: 9 champions (5.3%)
+  - Runeterra: 8 champions (4.7%)
+  - Piltover: 6 champions (3.6%)
+  - Targon: 5 champions (3.0%)
+  - Le Néant: 5 champions (3.0%)
+  - Bandle: 5 champions (3.0%)
+  - Ixtal: 5 champions (3.0%)
+  - Camavor - Îles Obscures: 4 champions (2.4%)
+  - Shurima - Le Néant: 4 champions (2.4%)
+  - Îles Obscures: 4 champions (2.4%)
+  - Piltover - Zaun: 4 champions (2.4%)
+  - Noxus - Îles Obscures: 3 champions (1.8%)
+  - Demacia - Targon: 3 champions (1.8%)
+  - Noxus - Piltover: 2 champions (1.2%)
+  - Noxus - Shurima: 2 champions (1.2%)
+  - Freljord - Ionia: 2 champions (1.2%)
+  - Icathia - Runeterra - Shurima: 2 champions (1.2%)
+  - Ixtal - Shurima: 2 champions (1.2%)
+  - Bilgewater - Runeterra: 2 champions (1.2%)
+  - Runeterra - Shurima: 1 champions (0.6%)
+  - Noxus - Runeterra: 1 champions (0.6%)
+  - Runeterra - Targon: 1 champions (0.6%)
+  - Freljord - Runeterra: 1 champions (0.6%)
+  - Bandle - Piltover: 1 champions (0.6%)
+  - Shurima - Zaun: 1 champions (0.6%)
+  - Ionia - Noxus - Runeterra - Shurima: 1 champions (0.6%)
+  - Demacia - Îles Obscures: 1 champions (0.6%)
+  - Ionia - Noxus: 1 champions (0.6%)
+  - Camavor - Noxus: 1 champions (0.6%)
+  - Demacia - Ionia: 1 champions (0.6%)
+  - Ionia - Targon: 1 champions (0.6%)
+  - Demacia - Freljord: 1 champions (0.6%)
+  - Noxus - Zaun: 1 champions (0.6%)
+  - Ionia - Runeterra - Shurima: 1 champions (0.6%)
+  - Bandle - Runeterra - Îles Obscures: 1 champions (0.6%)
+  - Bandle - Îles Obscures: 1 champions (0.6%)
+  - Camavor - Noxus - Îles Obscures: 1 champions (0.6%)
+  - Demacia - Ionia - Noxus: 1 champions (0.6%)
+
+Exemple: si la réponse est 'Ionia', alors:
+Nombre de champions restants après filtrage: 19
+Exemples de champions restants:
+  - Ahri
+  - Akali
+  - Hwei
+  - Irelia
+  - Jhin
+  (et 14 autres)
+
+==================================================
+
+Étape 2:
+Nombre de champions restants: 19
+Meilleure question à poser: 'role' (gain d'information: 2.760 bits)
+Distribution des valeurs pour cet attribut:
+  - Milieu: 6 champions (31.6%)
+  - Jungle: 3 champions (15.8%)
+  - Milieu - Haut: 2 champions (10.5%)
+  - Bas: 2 champions (10.5%)
+  - Support: 2 champions (10.5%)
+  - Haut: 2 champions (10.5%)
+  - Support - Haut: 1 champions (5.3%)
+  - Jungle - Haut: 1 champions (5.3%)
+
+Exemple: si la réponse est 'Milieu', alors:
+Nombre de champions restants après filtrage: 6
+Exemples de champions restants:
+  - Ahri
+  - Akali
+  - Hwei
+  - Syndra
+  - Yasuo
+  (et 1 autres)
+
+==================================================
+
+Étape 3:
+Nombre de champions restants: 6
+Meilleure question à poser: 'espece' (gain d'information: 1.792 bits)
+Distribution des valeurs pour cet attribut:
+  - Humain - Né magique: 3 champions (50.0%)
+  - Vastaya: 1 champions (16.7%)
+  - Humain: 1 champions (16.7%)
+  - Humain - Altéré Magiquement: 1 champions (16.7%)
+
+Exemple: si la réponse est 'Humain - Né magique', alors:
+Nombre de champions restants après filtrage: 3
+Exemples de champions restants:
+  - Hwei
+  - Syndra
+  - Yasuo
+
+==================================================
+
+Étape 4:
+Nombre de champions restants: 3
+Meilleure question à poser: 'genre' (gain d'information: 0.918 bits)
+Distribution des valeurs pour cet attribut:
+  - Masculin: 2 champions (66.7%)
+  - Feminin: 1 champions (33.3%)
+
+Exemple: si la réponse est 'Masculin', alors:
+Nombre de champions restants après filtrage: 2
+Exemples de champions restants:
+  - Hwei
+  - Yasuo
+
+==================================================
+
+Étape 5:
+Nombre de champions restants: 2
+Meilleure question à poser: 'ressource' (gain d'information: 1.000 bits)
+Distribution des valeurs pour cet attribut:
+  - Mana: 1 champions (50.0%)
+  - Vent: 1 champions (50.0%)
+
+Exemple: si la réponse est 'Mana', alors:
+Nombre de champions restants après filtrage: 1
+Exemples de champions restants:
+  - Hwei
+
+==================================================
+
+Champion trouvé: Hwei

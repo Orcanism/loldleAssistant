@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assistant Loldle Pro++</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+    <link rel='stylesheet' type='text/css' media='screen' href='index.css'> 
+    <script src="index.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="communist-panel">
+            <div class="history">
+                <h2 class="panel-title">Historique</h2>
+                <table class="history-table">
+                    <thead>
+                        <tr>
+                            <th>Guess</th>
+                            <th>Restants</th>
+                        </tr>
+                    </thead>
+                    <tbody id="historyBody"></tbody>
+                </table>
+            </div>
+        </div>
+        <div class="left-panel">
+            <div class="suggestions">
+                <h2 class="panel-title">Coups possibles</h2>
+                <div class="searchBar">
+                    <input type="text" placeholder="Rechercher...">
+                </div>
+                <div id="suggestionText">Cliquez sur 'Calculer'</div>
+                <div class="suggestion-list" id="suggestionList"></div>
+                <button id="calculateBtn" class="btn btn-primary">Calculer</button>
+            </div>
+        </div>
+        
+        <div class="right-panel">
+            <div class="feedback-section">
+                <h2 class="panel-title">Feedback</h2>
+                <div class="current-guess" id="currentGuess">Aucun champion sélectionné</div>
+                
+                <div id="feedbackControls"></div>
+                
+                <div class="button-group">
+                    <button id="applyFeedbackBtn" class="btn btn-primary">Appliquer</button>
+                    <button id="newGameBtn" class="btn btn-danger">Nouvelle Partie</button>
+                    <button id="statsBtn" class="btn">Stats</button>
+                    <button id="weightsBtn" class="btn">Poids</button>
+                </div>
+            </div>
+            
+            <div class="visualization">
+                <h2 class="panel-title">Visualisation</h2>
+                <div class="chart-container">
+                    <canvas id="distributionChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Stats Modal -->
+    <div class="modal" id="statsModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">Statistiques</h2>
+                <span class="close-btn" id="closeStatsBtn">&times;</span>
+            </div>
+            <div class="tab-container" id="statsTabs"></div>
+            <div id="statsContent"></div>
+        </div>
+    </div>
+    
+    <!-- Weights Modal -->
+    <div class="modal" id="weightsModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">Éditeur de poids</h2>
+                <span class="close-btn" id="closeWeightsBtn">&times;</span>
+            </div>
+            <div class="weights-container" id="weightsContainer"></div>
+            <div class="button-group">
+                <button id="saveWeightsBtn" class="btn btn-primary">Appliquer</button>
+                <button id="cancelWeightsBtn" class="btn">Annuler</button>
+                <button id="resetWeightsBtn" class="btn">Par défaut</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

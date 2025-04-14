@@ -1,0 +1,155 @@
+
+Distribution de l'attribut: GENRE
+----------------------------------------
+Valeur                    | Count  | %    
+----------------------------------------
+Masculin                  | 100    | 59.2%
+Feminin                   | 66     | 39.1%
+Autre                     | 3      | 1.8%
+
+Total unique values: 3
+Total occurrences: 169
+----------------------------------------
+
+
+Distribution de l'attribut: ROLE
+----------------------------------------
+Valeur                    | Count  | %    
+----------------------------------------
+Haut                      | 51     | 25.0%
+Milieu                    | 47     | 23.0%
+Jungle                    | 45     | 22.1%
+Support                   | 37     | 18.1%
+Bas                       | 24     | 11.8%
+
+Total unique values: 5
+Total occurrences: 204
+----------------------------------------
+
+
+Distribution de l'attribut: ESPECE
+----------------------------------------
+Valeur                    | Count  | %    
+----------------------------------------
+Humain                    | 95     | 36.4%
+Altéré Magiquement        | 21     | 8.0%
+Né magique                | 16     | 6.1%
+Yordle                    | 15     | 5.7%
+Esprit                    | 12     | 4.6%
+Spiritualiste             | 10     | 3.8%
+Vastaya                   | 9      | 3.4%
+Être du néant             | 9      | 3.4%
+Mort-vivant               | 7      | 2.7%
+Né de glace               | 7      | 2.7%
+Hôte                      | 7      | 2.7%
+Altéré Chimiquement       | 7      | 2.7%
+Golem                     | 6      | 2.3%
+Dieu                      | 5      | 1.9%
+Darkin                    | 4      | 1.5%
+Dieu-Guerrier             | 4      | 1.5%
+Cyborg                    | 4      | 1.5%
+Démon                     | 4      | 1.5%
+Revenant                  | 4      | 1.5%
+Céleste                   | 3      | 1.1%
+Dragon                    | 3      | 1.1%
+Inconnu                   | 2      | 0.8%
+Minotaure                 | 1      | 0.4%
+Chien                     | 1      | 0.4%
+Yeti                      | 1      | 0.4%
+Brackern                  | 1      | 0.4%
+Rat                       | 1      | 0.4%
+Chat                      | 1      | 0.4%
+Troll                     | 1      | 0.4%
+
+Total unique values: 29
+Total occurrences: 261
+----------------------------------------
+
+
+Distribution de l'attribut: RESSOURCE
+----------------------------------------
+Valeur                    | Count  | %    
+----------------------------------------
+Mana                      | 141    | 83.4%
+Sans Mana                 | 7      | 4.1%
+Énergie                   | 6      | 3.6%
+Coûts de santé            | 3      | 1.8%
+Furie                     | 3      | 1.8%
+Rage                      | 2      | 1.2%
+Courage                   | 1      | 0.6%
+Bouclier                  | 1      | 0.6%
+Férocité                  | 1      | 0.6%
+Vapeur                    | 1      | 0.6%
+Agressivité               | 1      | 0.6%
+Soif de sang              | 1      | 0.6%
+Vent                      | 1      | 0.6%
+
+Total unique values: 13
+Total occurrences: 169
+----------------------------------------
+
+
+Distribution de l'attribut: TYPE-DE-PORTEE
+----------------------------------------
+Valeur                    | Count  | %    
+----------------------------------------
+Mêlée                     | 92     | 52.9%
+À distance                | 82     | 47.1%
+
+Total unique values: 2
+Total occurrences: 174
+----------------------------------------
+
+
+Distribution de l'attribut: REGION
+----------------------------------------
+Valeur                    | Count  | %    
+----------------------------------------
+Ionia                     | 27     | 11.9%
+Shurima                   | 25     | 11.1%
+Noxus                     | 24     | 10.6%
+Runeterra                 | 19     | 8.4%
+Freljord                  | 18     | 8.0%
+Zaun                      | 16     | 7.1%
+Demacia                   | 16     | 7.1%
+Îles Obscures             | 15     | 6.6%
+Piltover                  | 13     | 5.8%
+Bilgewater                | 11     | 4.9%
+Targon                    | 10     | 4.4%
+Le Néant                  | 9      | 4.0%
+Bandle                    | 8      | 3.5%
+Ixtal                     | 7      | 3.1%
+Camavor                   | 6      | 2.7%
+Icathia                   | 2      | 0.9%
+
+Total unique values: 16
+Total occurrences: 226
+----------------------------------------
+
+
+Distribution de l'attribut: YEAR
+----------------------------------------
+Valeur                    | Count  | %    
+----------------------------------------
+2009                      | 42     | 24.9%
+2011                      | 24     | 14.2%
+2010                      | 24     | 14.2%
+2012                      | 18     | 10.7%
+2013                      | 8      | 4.7%
+2016                      | 6      | 3.6%
+2014                      | 6      | 3.6%
+2020                      | 6      | 3.6%
+2019                      | 5      | 3.0%
+2015                      | 5      | 3.0%
+2022                      | 5      | 3.0%
+2017                      | 5      | 3.0%
+2021                      | 4      | 2.4%
+2023                      | 4      | 2.4%
+2024                      | 3      | 1.8%
+2018                      | 3      | 1.8%
+2025                      | 1      | 0.6%
+
+Total unique values: 17
+Total occurrences: 169
+----------------------------------------
+

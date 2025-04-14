@@ -1,0 +1,340 @@
+[
+    {'champion': 'Aatrox', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Darkin', 'ressource': 'Sans Mana', 'type-de-portee': 'M�l�e', 'region': 'Runeterra - Shurima', 'year': 2013, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ahri', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Vastaya', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ionia', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Akali', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Humain', 'ressource': '�nergie', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Akshan', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Shurima', 'year': 2021, 'Unnamed: 8': nan
+    },
+    {'champion': 'Alistar', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Minotaure', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Runeterra', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ambessa', 'genre': 'Feminin', 'role': 'Jungle - Haut', 'espece': 'Humain', 'ressource': '�nergie', 'type-de-portee': 'M�l�e', 'region': 'Noxus - Piltover', 'year': 2024, 'Unnamed: 8': nan
+    },
+    {'champion': 'Amumu', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Mort-vivant - Yordle', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Shurima', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Anivia', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Dieu - Esprit', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Freljord', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Annie', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus - Runeterra', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Aphelios', 'genre': 'Masculin', 'role': 'Bas', 'espece': 'Humain - Spiritualiste', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Targon', 'year': 2019, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ashe', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain - N� de glace', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Freljord', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Aurelion Sol', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'C�leste - Dragon', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Runeterra - Targon', 'year': 2016, 'Unnamed: 8': nan
+    },
+    {'champion': 'Aurora', 'genre': 'Feminin', 'role': 'Milieu - Haut', 'espece': 'Vastaya', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Freljord', 'year': 2024, 'Unnamed: 8': nan
+    },
+    {'champion': 'Azir', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Dieu-Guerrier', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Shurima', 'year': 2014, 'Unnamed: 8': nan
+    },
+    {'champion': 'Bard', 'genre': 'Masculin', 'role': 'Support', 'espece': 'C�leste', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Runeterra', 'year': 2015, 'Unnamed: 8': nan
+    },
+    {'champion': "Bel'Veth", 'genre': 'Feminin', 'role': 'Jungle', 'espece': '�tre du n�ant', 'ressource': 'Sans Mana', 'type-de-portee': 'M�l�e', 'region': 'Le N�ant', 'year': 2022, 'Unnamed: 8': nan
+    },
+    {'champion': 'Blitzcrank', 'genre': 'Autre', 'role': 'Support', 'espece': 'Golem', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Zaun', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Brand', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Freljord - Runeterra', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Braum', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Humain - N� de glace', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2014, 'Unnamed: 8': nan
+    },
+    {'champion': 'Briar', 'genre': 'Feminin', 'role': 'Jungle', 'espece': 'Golem', 'ressource': 'Co�ts de sant�', 'type-de-portee': 'M�l�e', 'region': 'Noxus', 'year': 2023, 'Unnamed: 8': nan
+    },
+    {'champion': 'Caitlyn', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Piltover', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Camille', 'genre': 'Feminin', 'role': 'Haut', 'espece': 'Cyborg - Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Piltover', 'year': 2016, 'Unnamed: 8': nan
+    },
+    {'champion': 'Cassiopeia', 'genre': 'Feminin', 'role': 'Milieu - Haut', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus - Shurima', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': "Cho'Gath", 'genre': 'Masculin', 'role': 'Haut', 'espece': '�tre du n�ant', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Le N�ant', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Corki', 'genre': 'Masculin', 'role': 'Bas - Milieu', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bandle - Piltover', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Darius', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Noxus', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Diana', 'genre': 'Feminin', 'role': 'Jungle - Milieu', 'espece': 'H�te - Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Targon', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Dr. Mundo', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Alt�r� Chimiquement - Humain', 'ressource': 'Co�ts de sant�', 'type-de-portee': 'M�l�e', 'region': 'Zaun', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Draven', 'genre': 'Masculin', 'role': 'Bas', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ekko', 'genre': 'Masculin', 'role': 'Jungle - Milieu', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Zaun', 'year': 2015, 'Unnamed: 8': nan
+    },
+    {'champion': 'Elise', 'genre': 'Feminin', 'role': 'Jungle', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': 'M�l�e - � distance', 'region': 'Noxus - �les Obscures', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Evelynn', 'genre': 'Feminin', 'role': 'Jungle', 'espece': 'D�mon - Esprit', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Runeterra', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ezreal', 'genre': 'Masculin', 'role': 'Bas', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Piltover', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Fiddlesticks', 'genre': 'Autre', 'role': 'Jungle', 'espece': 'D�mon - Esprit', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Runeterra', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Fiora', 'genre': 'Feminin', 'role': 'Haut', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Demacia', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Fizz', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Bilgewater', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Galio', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Golem', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Demacia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Gangplank', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Bilgewater', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Garen', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Humain', 'ressource': 'Sans Mana', 'type-de-portee': 'M�l�e', 'region': 'Demacia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Gnar', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Yordle', 'ressource': 'Rage', 'type-de-portee': 'M�l�e - � distance', 'region': 'Freljord', 'year': 2014, 'Unnamed: 8': nan
+    },
+    {'champion': 'Gragas', 'genre': 'Masculin', 'role': 'Jungle - Haut', 'espece': 'Humain - N� de glace', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Graves', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bilgewater', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Gwen', 'genre': 'Feminin', 'role': 'Jungle - Haut', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Camavor - �les Obscures', 'year': 2021, 'Unnamed: 8': nan
+    },
+    {'champion': 'Hecarim', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Mort-vivant', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Camavor - �les Obscures', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Heimerdinger', 'genre': 'Masculin', 'role': 'Milieu - Haut', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Piltover', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Hwei', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ionia', 'year': 2023, 'Unnamed: 8': nan
+    },
+    {'champion': 'Illaoi', 'genre': 'Feminin', 'role': 'Haut', 'espece': 'Humain - Spiritualiste', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Bilgewater', 'year': 2015, 'Unnamed: 8': nan
+    },
+    {'champion': 'Irelia', 'genre': 'Feminin', 'role': 'Milieu - Haut', 'espece': 'Humain - Spiritualiste', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ivern', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Freljord - Ionia', 'year': 2016, 'Unnamed: 8': nan
+    },
+    {'champion': 'Janna', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Dieu - Esprit', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Shurima - Zaun', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Jarvan IV', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Demacia', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Jax', 'genre': 'Masculin', 'role': 'Jungle - Haut', 'espece': 'Inconnu', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Icathia - Runeterra - Shurima', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Jayce', 'genre': 'Masculin', 'role': 'Milieu - Haut', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e - � distance', 'region': 'Piltover', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Jhin', 'genre': 'Masculin', 'role': 'Bas', 'espece': 'Humain - Spiritualiste', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ionia', 'year': 2016, 'Unnamed: 8': nan
+    },
+    {'champion': 'Jinx', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Alt�r� Chimiquement - Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Zaun', 'year': 2013, 'Unnamed: 8': nan
+    },
+    {'champion': "K'Sant�", 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Shurima', 'year': 2022, 'Unnamed: 8': nan
+    },
+    {'champion': "Kai'Sa", 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain - �tre du n�ant', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Shurima - Le N�ant', 'year': 2018, 'Unnamed: 8': nan
+    },
+    {'champion': 'Kalista', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Mort-vivant', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Camavor - �les Obscures', 'year': 2014, 'Unnamed: 8': nan
+    },
+    {'champion': 'Karma', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Humain - Spiritualiste', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ionia', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Karthus', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Mort-vivant', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus - �les Obscures', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Kassadin', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Humain - �tre du n�ant', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Shurima - Le N�ant', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Katarina', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Humain', 'ressource': 'Sans Mana', 'type-de-portee': 'M�l�e', 'region': 'Noxus', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Kayle', 'genre': 'Feminin', 'role': 'Haut', 'espece': 'H�te - Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': 'M�l�e - � distance', 'region': 'Demacia - Targon', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Kayn', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Darkin - Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ionia - Noxus - Runeterra - Shurima', 'year': 2017, 'Unnamed: 8': nan
+    },
+    {'champion': 'Kennen', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Yordle', 'ressource': '�nergie', 'type-de-portee': '� distance', 'region': 'Ionia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': "Kha'Zix", 'genre': 'Masculin', 'role': 'Jungle', 'espece': '�tre du n�ant', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Le N�ant', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Kindred', 'genre': 'Autre', 'role': 'Jungle', 'espece': 'Dieu - Esprit', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Runeterra', 'year': 2015, 'Unnamed: 8': nan
+    },
+    {'champion': 'Kled', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Yordle', 'ressource': 'Courage', 'type-de-portee': 'M�l�e', 'region': 'Noxus', 'year': 2016, 'Unnamed: 8': nan
+    },
+    {'champion': "Kog'Maw", 'genre': 'Masculin', 'role': 'Bas', 'espece': '�tre du n�ant', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Le N�ant', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'LeBlanc', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Lee Sin', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Humain - Spiritualiste', 'ressource': '�nergie', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Leona', 'genre': 'Feminin', 'role': 'Support', 'espece': 'H�te - Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Targon', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Lillia', 'genre': 'Feminin', 'role': 'Jungle', 'espece': 'Esprit', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2020, 'Unnamed: 8': nan
+    },
+    {'champion': 'Lissandra', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Humain - N� de glace', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Freljord', 'year': 2013, 'Unnamed: 8': nan
+    },
+    {'champion': 'Lucian', 'genre': 'Masculin', 'role': 'Bas', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Demacia - �les Obscures', 'year': 2013, 'Unnamed: 8': nan
+    },
+    {'champion': 'Lulu', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bandle', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Lux', 'genre': 'Feminin', 'role': 'Milieu - Support', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Demacia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Malphite', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Golem', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ixtal - Shurima', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Malzahar', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Humain - �tre du n�ant', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Shurima - Le N�ant', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Maokai', 'genre': 'Masculin', 'role': 'Support - Haut', 'espece': 'Esprit', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': '�les Obscures', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ma�tre Yi', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Humain - Spiritualiste', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Mel', 'genre': 'Feminin', 'role': 'Milieu - Support', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus - Piltover', 'year': 2025, 'Unnamed: 8': nan
+    },
+    {'champion': 'Milio', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ixtal', 'year': 2023, 'Unnamed: 8': nan
+    },
+    {'champion': 'Miss Fortune', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bilgewater', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Mordekaiser', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Revenant', 'ressource': 'Bouclier', 'type-de-portee': 'M�l�e', 'region': 'Noxus - �les Obscures', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Morgana', 'genre': 'Feminin', 'role': 'Support', 'espece': 'H�te - Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Demacia - Targon', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Naafiri', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Darkin - Chien', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Shurima', 'year': 2023, 'Unnamed: 8': nan
+    },
+    {'champion': 'Nami', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Vastaya', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bilgewater - Runeterra', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Nasus', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Dieu-Guerrier', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Shurima', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Nautilus', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Revenant', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Bilgewater', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Neeko', 'genre': 'Feminin', 'role': 'Milieu - Support', 'espece': 'Vastaya', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ixtal', 'year': 2018, 'Unnamed: 8': nan
+    },
+    {'champion': 'Nidalee', 'genre': 'Feminin', 'role': 'Jungle', 'espece': 'Humain - Spiritualiste', 'ressource': 'Mana', 'type-de-portee': 'M�l�e - � distance', 'region': 'Ixtal', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Nilah', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Bilgewater', 'year': 2022, 'Unnamed: 8': nan
+    },
+    {'champion': 'Nocturne', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'D�mon - Esprit', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Runeterra', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Nunu et Willump', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Humain - Yeti', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Olaf', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Humain - N� de glace', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Orianna', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Golem', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Piltover', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ornn', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Dieu - Esprit', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2017, 'Unnamed: 8': nan
+    },
+    {'champion': 'Pantheon', 'genre': 'Masculin', 'role': 'Support - Haut', 'espece': 'H�te - Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Targon', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Poppy', 'genre': 'Feminin', 'role': 'Support - Haut', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Demacia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Pyke', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Revenant', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Bilgewater', 'year': 2018, 'Unnamed: 8': nan
+    },
+    {'champion': 'Qiyana', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ixtal', 'year': 2019, 'Unnamed: 8': nan
+    },
+    {'champion': 'Quinn', 'genre': 'Feminin', 'role': 'Haut', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Demacia', 'year': 2013, 'Unnamed: 8': nan
+    },
+    {'champion': 'Rakan', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Vastaya', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2017, 'Unnamed: 8': nan
+    },
+    {'champion': 'Rammus', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Inconnu', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Shurima', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': "Rek'Sai", 'genre': 'Feminin', 'role': 'Jungle', 'espece': '�tre du n�ant', 'ressource': 'Rage', 'type-de-portee': 'M�l�e', 'region': 'Shurima - Le N�ant', 'year': 2014, 'Unnamed: 8': nan
+    },
+    {'champion': 'Rell', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Humain - Alt�r� Magiquement - N� magique', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Noxus', 'year': 2020, 'Unnamed: 8': nan
+    },
+    {'champion': 'Renata Glasc', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Alt�r� Chimiquement - Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Zaun', 'year': 2022, 'Unnamed: 8': nan
+    },
+    {'champion': 'Renekton', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Dieu-Guerrier', 'ressource': 'Furie', 'type-de-portee': 'M�l�e', 'region': 'Shurima', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Rengar', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Vastaya', 'ressource': 'F�rocit�', 'type-de-portee': 'M�l�e', 'region': 'Ixtal - Shurima', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Riven', 'genre': 'Feminin', 'role': 'Haut', 'espece': 'Humain', 'ressource': 'Sans Mana', 'type-de-portee': 'M�l�e', 'region': 'Ionia - Noxus', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Rumble', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Yordle', 'ressource': 'Vapeur', 'type-de-portee': 'M�l�e', 'region': 'Bandle', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ryze', 'genre': 'Masculin', 'role': 'Milieu - Haut', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Runeterra', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Samira', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus - Shurima', 'year': 2020, 'Unnamed: 8': nan
+    },
+    {'champion': 'Sejuani', 'genre': 'Feminin', 'role': 'Jungle', 'espece': 'Humain - N� de glace', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Senna', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Humain - Mort-vivant', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': '�les Obscures', 'year': 2019, 'Unnamed: 8': nan
+    },
+    {'champion': 'S�raphine', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Piltover - Zaun', 'year': 2020, 'Unnamed: 8': nan
+    },
+    {'champion': 'Sett', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Humain - Vastaya', 'ressource': 'Agressivit�', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2020, 'Unnamed: 8': nan
+    },
+    {'champion': 'Shaco', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Esprit', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Runeterra', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Shen', 'genre': 'Masculin', 'role': 'Support - Haut', 'espece': 'Humain - Spiritualiste', 'ressource': '�nergie', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Shyvana', 'genre': 'Feminin', 'role': 'Jungle', 'espece': 'Dragon - Alt�r� Magiquement', 'ressource': 'Furie', 'type-de-portee': 'M�l�e', 'region': 'Demacia', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Singed', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Alt�r� Chimiquement - Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Piltover - Zaun', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Sion', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Revenant', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Noxus', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Sivir', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Shurima', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Skarner', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Brackern', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ixtal', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Smolder', 'genre': 'Masculin', 'role': 'Bas - Milieu', 'espece': 'Dragon', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Camavor - Noxus', 'year': 2024, 'Unnamed: 8': nan
+    },
+    {'champion': 'Sona', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Demacia - Ionia', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Soraka', 'genre': 'Feminin', 'role': 'Support', 'espece': 'C�leste', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ionia - Targon', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Swain', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Sylas', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Demacia - Freljord', 'year': 2019, 'Unnamed: 8': nan
+    },
+    {'champion': 'Syndra', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ionia', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Tahm Kench', 'genre': 'Masculin', 'role': 'Support - Haut', 'espece': 'D�mon - Esprit', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Bilgewater - Runeterra', 'year': 2015, 'Unnamed: 8': nan
+    },
+    {'champion': 'Taliyah', 'genre': 'Feminin', 'role': 'Jungle - Milieu', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Shurima', 'year': 2016, 'Unnamed: 8': nan
+    },
+    {'champion': 'Talon', 'genre': 'Masculin', 'role': 'Jungle - Milieu', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Noxus', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Taric', 'genre': 'Masculin', 'role': 'Support', 'espece': 'H�te - Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Demacia - Targon', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Teemo', 'genre': 'Masculin', 'role': 'Jungle - Haut', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bandle', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Thresh', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Mort-vivant', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': '�les Obscures', 'year': 2013, 'Unnamed: 8': nan
+    },
+    {'champion': 'Tristana', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bandle', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Tryndamere', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Furie', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Twisted Fate', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bilgewater', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Twitch', 'genre': 'Masculin', 'role': 'Bas', 'espece': 'Alt�r� Chimiquement - Rat', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Zaun', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Udyr', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Humain - Spiritualiste', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord - Ionia', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Urgot', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Alt�r� Chimiquement - Cyborg - Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Noxus - Zaun', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Varus', 'genre': 'Masculin', 'role': 'Bas', 'espece': 'Darkin - Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ionia - Runeterra - Shurima', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Vayne', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Demacia', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Veigar', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bandle - Runeterra - �les Obscures', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': "Vel'Koz", 'genre': 'Masculin', 'role': 'Milieu - Support', 'espece': '�tre du n�ant', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Le N�ant', 'year': 2014, 'Unnamed: 8': nan
+    },
+    {'champion': 'Vex', 'genre': 'Feminin', 'role': 'Milieu', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bandle - �les Obscures', 'year': 2021, 'Unnamed: 8': nan
+    },
+    {'champion': 'Vi', 'genre': 'Feminin', 'role': 'Jungle', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Piltover - Zaun', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Viego', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Mort-vivant', 'ressource': 'Sans Mana', 'type-de-portee': 'M�l�e', 'region': 'Camavor - �les Obscures', 'year': 2021, 'Unnamed: 8': nan
+    },
+    {'champion': 'Viktor', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Cyborg - Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Piltover - Zaun', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Vladimir', 'genre': 'Masculin', 'role': 'Milieu - Haut', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Soif de sang', 'type-de-portee': '� distance', 'region': 'Camavor - Noxus - �les Obscures', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Volibear', 'genre': 'Masculin', 'role': 'Jungle - Haut', 'espece': 'Dieu - Esprit', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Warwick', 'genre': 'Masculin', 'role': 'Jungle - Haut', 'espece': 'Alt�r� Chimiquement - Cyborg - Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Zaun', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Wukong', 'genre': 'Masculin', 'role': 'Jungle - Haut', 'espece': 'Vastaya', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Xayah', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Vastaya', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Ionia', 'year': 2017, 'Unnamed: 8': nan
+    },
+    {'champion': 'Xerath', 'genre': 'Masculin', 'role': 'Milieu - Support', 'espece': 'Dieu-Guerrier', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Shurima', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Xin Zhao', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Humain', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Demacia - Ionia - Noxus', 'year': 2010, 'Unnamed: 8': nan
+    },
+    {'champion': 'Yasuo', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Humain - N� magique', 'ressource': 'Vent', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2013, 'Unnamed: 8': nan
+    },
+    {'champion': 'Yone', 'genre': 'Masculin', 'role': 'Milieu - Haut', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Sans Mana', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2020, 'Unnamed: 8': nan
+    },
+    {'champion': 'Yorick', 'genre': 'Masculin', 'role': 'Haut', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': '�les Obscures', 'year': 2011, 'Unnamed: 8': nan
+    },
+    {'champion': 'Yuumi', 'genre': 'Feminin', 'role': 'Support', 'espece': 'Chat - Alt�r� Magiquement', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Bandle', 'year': 2019, 'Unnamed: 8': nan
+    },
+    {'champion': 'Zac', 'genre': 'Masculin', 'role': 'Jungle', 'espece': 'Golem', 'ressource': 'Co�ts de sant�', 'type-de-portee': 'M�l�e', 'region': 'Zaun', 'year': 2013, 'Unnamed: 8': nan
+    },
+    {'champion': 'Zed', 'genre': 'Masculin', 'role': 'Milieu', 'espece': 'Humain - Alt�r� Magiquement', 'ressource': '�nergie', 'type-de-portee': 'M�l�e', 'region': 'Ionia', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Zeri', 'genre': 'Feminin', 'role': 'Bas', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Zaun', 'year': 2022, 'Unnamed: 8': nan
+    },
+    {'champion': 'Ziggs', 'genre': 'Masculin', 'role': 'Bas - Milieu', 'espece': 'Yordle', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Zaun', 'year': 2012, 'Unnamed: 8': nan
+    },
+    {'champion': 'Zilean', 'genre': 'Masculin', 'role': 'Support', 'espece': 'Humain - N� magique', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Icathia - Runeterra - Shurima', 'year': 2009, 'Unnamed: 8': nan
+    },
+    {'champion': 'Zo�', 'genre': 'Feminin', 'role': 'Milieu - Support', 'espece': 'H�te - Humain', 'ressource': 'Mana', 'type-de-portee': '� distance', 'region': 'Targon', 'year': 2017, 'Unnamed: 8': nan
+    },
+    {'champion': 'Trundle', 'genre': 'Masculin', 'role': 'Jungle - Haut', 'espece': 'N� de glace - Troll', 'ressource': 'Mana', 'type-de-portee': 'M�l�e', 'region': 'Freljord', 'year': 2010, 'Unnamed: 8': nan
+    }
+]
